@@ -1,0 +1,1 @@
+![image info](./images/call_lib_with_cmakeConfig.png)
